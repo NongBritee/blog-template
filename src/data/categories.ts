@@ -1,5 +1,8 @@
 // List of categories for blog posts
 export const CATEGORIES = [
+	'Golang',
+	'JavaScript',
+	'Robot Framework',
 	'Category 1',
 	'Category 2',
 	'Category 3',
